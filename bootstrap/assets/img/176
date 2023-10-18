@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pt-BR">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="author" content="Elvis Galvone - Flash TI" />
+<meta name="keywords" content="downtown, shopping, barra, cinema, saude, serviços, gastronomia,imóveis" />
+<meta name="description" content="Primeiro open mall do Rio de Janeiro atrai cada vez mais lojistas e cerca de 35 mil consumidores por dia" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://downtown.com.br/img/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://downtown.com.br/img/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://downtown.com.br/img/apple-touch-icon-72-precomposed.png">
+<link rel="shortcut icon" href="https://downtown.com.br/img/favicon.png">
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://downtown.com.br/css/bootstrap.css" type="text/css" />
+<link rel="stylesheet" href="https://downtown.com.br/style.css" type="text/css" />
+<link rel="stylesheet" href="https://downtown.com.br/css/dark.css" type="text/css" />
+<link rel="stylesheet" href="https://downtown.com.br/css/font-icons.css" type="text/css" />
+<link rel="stylesheet" href="https://downtown.com.br/css/animate.css" type="text/css" />
+<link rel="stylesheet" href="https://downtown.com.br/css/magnific-popup.css" type="text/css" />
+<link rel="stylesheet" href="https://downtown.com.br/css/responsive.css" type="text/css" />
+<link rel="stylesheet" href="https://downtown.com.br/css/site.css" type="text/css" />
+
+<title>Oktoberfest Downtown</title>
+</head>
+<body class="stretched" data-loader="3" data-loader-color="theme">
+
+<div id="wrapper" class="clearfix">
+
+<div id="top-bar" style="background-color: #f5f5f5; line-height: normal; height: 55px" class="d-none d-md-block">
+<div class="container clearfix" style="padding-top: 7px;">
+<div class="row justify-content-between">
+<div class="col-12 col-md-3">
+<div class="col_full clearfix">
+<a href="https://www.facebook.com/downtownrj/" target="_blank" class="social-icon si-borderless si-call" title="facebook">
+<i class="icon-facebook"></i>
+<i class="icon-facebook"></i>
+</a>
+<a href="https://instagram.com/downtownrj/" target="_blank" class="social-icon si-borderless si-call" title="Instagram">
+<i class="icon-instagram"></i>
+<i class="icon-instagram"></i>
+</a>
+<a href="https://api.whatsapp.com/send?phone=552124947072" target="_blank" class="social-icon si-borderless si-call" title="whatsapp">
+<i class="icon-whatsapp"></i>
+<i class="icon-whatsapp"></i>
+</a>
+</div>
+</div>
+<div class="col-md-6">
+<form id="form2" name="form2" method="get" action="https://downtown.com.br/lojas-busca.php"><div class="input-group">
+<input type="text" class="form-control" placeholder="O que você procura?" name="loja" id="loja" style="border-bottom-left-radius: 20px; border-top-left-radius: 20px">
+<span class="input-group-btn">
+<button class="btn " style="background-color: #000; color: #fff; border-bottom-right-radius: 20px; border-top-right-radius: 20px; padding-left: 30px; padding-right: 30px;" type="submit" value="busca"><i class="icon-search"></i></button>
+</span>
+</div>
+</form>
+</div>
+<div class="col-12 col-md-3">
+<div class="col_full clearfix" style="margin-left: 100px">
+<a href="https://tiktok.com/@downtownrj" target="_blank" class="social-icon si-borderless si-call" title="Tiktok">
+<i class="icon-tiktok"></i>
+<i class="icon-tiktok"></i>
+</a>
+<a href="https://t.me/downtownrj" target="_blank" class="social-icon si-borderless si-call" title="Telegram">
+<i class="icon-telegram"></i>
+<i class="icon-telegram"></i>
+</a>
+<a href="https://g.page/downtownrj?share" target="_blank" class="social-icon si-borderless si-call" title="maps">
+<i class="icon-map-marker2"></i>
+<i class="icon-map-marker2"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<header id="header">
+<div id="header-wrap">
+<div class="container clearfix">
+<div id="primary-menu-trigger"><i class="icon-reorder"></i> </div>
+
+<div id="logo"> <a href="https://downtown.com.br/" class="standard-logo"><img src="https://downtown.com.br/images/varios/logo-downtown-2.png" alt="downtown"></a> <a href="https://downtown.com.br/" class="retina-logo"><img src="https://downtown.com.br/images/varios/logo-downtown-2.png" alt="downtown"></a> </div>
+
+<nav id="primary-menu" class="style-4">
+<ul>
+<li> <a href="#">
+<div>A Cidade <i class="icon-angle-down"></i></div>
+</a>
+<ul>
+<li><a href="https://downtown.com.br/institucional">
+<div><i class="icon-certificate"></i> Institucional</div>
+</a></li>
+<li><a href="https://downtown.com.br/atendimento">
+<div><i class="icon-comment-dots1"></i> Atendimento</div>
+</a></li>
+<li><a href="https://downtown.com.br/estacionamento">
+<div><i class="icon-car"></i> Estacionamento</div>
+</a></li>
+<li><a href="https://downtown.com.br/mobilidade">
+<div><i class="icon-location-arrow"></i> Mobilidade</div>
+</a></li>
+<li><a href="https://downtown.com.br/imoveis">
+<div><i class="icon-building1"></i> Imóveis</div>
+</a></li>
+<li><a href="https://downtown.com.br/midias">
+<div><i class="icon-bullhorn2"></i> Mídias</div>
+</a></li>
+<li><a href="https://downtown.com.br/delivery">
+<div><i class="icon-cart"></i> Delivery</div>
+</a></li>
+</ul>
+</li>
+<li> <a href="#">
+<div>Opções <i class="icon-angle-down"></i></div>
+</a>
+<ul>
+<li><a href="https://downtown.com.br/compras">
+<div><i class="icon-line2-bag"></i> Compras</div>
+</a></li>
+<li><a href="https://downtown.com.br/alimentacao">
+<div><i class="icon-food2"></i> Alimentação</div>
+</a></li>
+<li><a href="https://downtown.com.br/servicos">
+<div><i class="icon-line-cog"></i> Serviços</div>
+</a></li>
+<li><a href="https://downtown.com.br/saude">
+<div><i class="icon-line-heart"></i> Saúde</div>
+</a></li>
+<li><a href="https://downtown.com.br/negocios">
+<div><i class="icon-line-briefcase"></i> Negócios</div>
+</a></li>
+<li><a href="https://downtown.com.br/educacao">
+<div><i class="icon-study"></i> Educação</div>
+</a></li>
+<li><a href="https://downtown.com.br/eventos">
+<div><i class="icon-calendar3"></i> Eventos</div>
+</a></li>
+<li><a href="https://downtown.com.br/lazer">
+<div><i class="icon-tree"></i> Lazer</div>
+</a></li>
+</ul>
+</li>
+<li><a href="https://downtown.com.br/cinema">
+<div>Cinema</div>
+</a></li>
+<li><a href="https://downtown.com.br/lazer">
+<div>Lazer</div>
+</a></li>
+<li><a href="https://downtown.com.br/unidades">
+<div>Unidades</div>
+</a></li>
+<li><a href="https://downtown.com.br/mais" style="background-color: #F2A83C; color: #3092B9;">
+<div>Downtown+</div>
+</a></li>
+<li><a href="https://www.downtown.metalive3d.com/metaverso-downtown.html" target="_blank" style="background-color: #000; color: #fff; margin-left:10px">
+<div>metaverso</div>
+</a></li>
+</ul>
+
+<div id="top-search" class="d-block d-md-none"> <a href="#" id="top-search-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>
+<form id="form1" name="form1" method="get" action="https://downtown.com.br/lojas-busca.php">
+<input type="text" name="loja" id="loja" class="form-control" placeholder="pesquisar">
+</form>
+</div>
+</nav>
+
+</div>
+</div>
+</header>
+
+<div class="container d-block d-sm-none mt-4">
+<div class="row justify-content-center">
+<div class="col-md-12">
+<div class="w-100 mb-4 clearfix"> <a href="https://downtown.com.br/compras" class="social-icon si-rounded si-dark si-facebook" title="compras"> <i class="icon-line2-bag"></i> <i class="icon-line2-bag"></i> </a> <a href="https://downtown.com.br/alimentacao" class="social-icon si-rounded si-dark si-delicious" title="Alimentação"> <i class="icon-food2"></i> <i class="icon-food2"></i> </a> <a href="https://downtown.com.br/servicos" class="social-icon si-rounded si-dark si-delicious" title="Serviços"> <i class="icon-line-cog"></i> <i class="icon-line-cog"></i> </a> <a href="https://downtown.com.br/saude" class="social-icon si-rounded si-dark si-delicious" title="Saúde"> <i class="icon-line-heart"></i> <i class="icon-line-heart"></i> </a> <a href="https://downtown.com.br/negocios" class="social-icon si-rounded si-dark si-delicious" title="Negócios"> <i class="icon-line-briefcase"></i> <i class="icon-line-briefcase"></i> </a> <a href="https://downtown.com.br/educacao" class="social-icon si-rounded si-dark si-delicious" title="Educação"> <i class="icon-study"></i> <i class="icon-study"></i> </a> <a href="https://downtown.com.br/unidades" class="social-icon si-rounded si-dark si-delicious" title="Imóveis"> <i class="icon-building1"></i> <i class="icon-building1"></i> </a> <a href="https://downtown.com.br/midias" class="social-icon si-rounded si-dark si-delicious" title="Mídias"> <i class="icon-bullhorn2"></i> <i class="icon-bullhorn2"></i> </a> <a href="https://downtown.com.br/eventos" class="social-icon si-rounded si-dark si-delicious" title="Eventos"> <i class="icon-calendar3"></i> <i class="icon-calendar3"></i> </a> <a href="https://downtown.com.br/lazer" class="social-icon si-rounded si-dark si-delicious" title="lazer"> <i class="icon-tree"></i> <i class="icon-tree"></i> </a> <a href="https://downtown.com.br/estacionamento" class="social-icon si-rounded si-dark si-delicious" title="estacionamento"> <i class="icon-car"></i> <i class="icon-car"></i> </a> <a href="https://downtown.com.br/mobilidade" class="social-icon si-rounded si-dark si-delicious" title="estacionamento"> <i class="icon-location-arrow"></i> <i class="icon-location-arrow"></i> </a> </div>
+</div>
+</div>
+</div>
+
+<section class="p-0">
+<img src="https://downtown.com.br/images/eventos/176/BANNER DESKTOP V3.jpg" style="width: 100%;" class="d-none d-sm-block img-fluid" alt="pet day">
+<img src="https://downtown.com.br/images/eventos/176/OKTOBER - FEED - V3.jpg" class="d-block d-sm-none" alt="institucional">
+</section>
+
+<section id="content">
+<div class="content-wrap pb-0">
+
+<div class="container ">
+<div class="row">
+<div class="col-md-8">
+<div class="heading-block nobottomborder mb-3">
+<h2>Oktoberfest Downtown</h2>
+<span class="divcenter text-muted">Dias 12, 13, 15, 19, 20, 21, 22, 26, 27, 28 e 29 de outubro, sempre a partir das 12h </span>
+</div>
+<img src="https://downtown.com.br/images/eventos/176/halloween-gettyimages-1424736925.jpg" alt="Oktoberfest Downtown" class="mb-4">
+<strong><span style="font-size:18px"><p><strong><em>Chopes ou travessuras? Nosso cl&aacute;ssico festival cervejeiro em ritmo de Halloween!</em></strong></p></span></strong>
+<p style="text-align: justify;"><strong>Prepare-se para a maior festa de Oktoberfest que o Rio de Janeiro j&aacute; viu!</strong></p>
+<p style="text-align: justify;">A Oktoberfest Downtown est&aacute; de volta e, este ano, est&aacute; mais emocionante do que nunca! A combina&ccedil;&atilde;o perfeita entre o tradicional festival de cervejas alem&atilde;o Oktoberfest e a divers&atilde;o do Halloween acontecer&aacute; em tr&ecirc;s semanas imperd&iacute;veis, entre os dias 12 e 29 de outubro, a partir das 12h.</p>
+<p style="text-align: justify;"><strong>Divers&atilde;o para toda a fam&iacute;lia no Dia das Crian&ccedil;as:</strong><br/>Para come&ccedil;ar com o p&eacute; direito, a quinta-feira, <strong>12 de outubro</strong> ser&aacute; dedicada &agrave;s crian&ccedil;as. Al&eacute;m das atra&ccedil;&otilde;es tradicionais da Oktoberfest, as lojas do Downtown estar&atilde;o participando de uma emocionante de <strong>Ca&ccedil;a aos Doces</strong>. As crian&ccedil;as podem se vestir com suas fantasias de Dia das Bruxas e coletar doces na nossa cidade de op&ccedil;&otilde;es a c&eacute;u aberto. Ser&aacute; uma experi&ecirc;ncia inesquec&iacute;vel para os pequenos! <a href="https://www.instagram.com/p/Cx_m-ipAa5l/" target="_blank" rel="noopener">Confira neste link</a>, as lojas participantes e seus respectivos blocos e unidades!</p>
+<p style="text-align: justify;"><strong>Brincadeiras:</strong><br/>Em todos os dias, os visitantes podem esperar uma variedade de atividades empolgantes como: fliperamas, mesa de sinuca e tot&oacute;, al&eacute;m dos brinquedos infl&aacute;veis, pula-pula e nossos playgrounds coloridos!</p>
+<p style="text-align: justify;"><strong>Shows: </strong>Bandas e cantores ao vivo garantir&atilde;o que voc&ecirc; cante, dance e pule todos os dias! Tem tributo a estilos musicais e bandas cl&aacute;ssicas, voz e viol&atilde;o, m&uacute;sicas e dan&ccedil;as tradicionais alem&atilde;s, canta&ccedil;&atilde;o de hist&oacute;rias, m&aacute;gica e muito mais! <strong>Confira a programa&ccedil;&atilde;o completa ao lado (ou abaixo).</strong></p>
+<p style="text-align: justify;"><strong>Bebidas:</strong> Uma sele&ccedil;&atilde;o incr&iacute;vel de marcas e r&oacute;tulos de cervejas artesanais e drinks deliciosos.</p>
+<p style="text-align: justify;"><strong>Alimenta&ccedil;&atilde;o</strong>: Delicie-se com pratos alem&atilde;es aut&ecirc;nticos, como pretzels, salsichas e chucrute, al&eacute;m de muitos outros lanches j&aacute; tradicionais nos eventos do Downtown!</p>
+<p style="text-align: justify;"><strong>Decora&ccedil;&atilde;o assustadora:</strong> A Pra&ccedil;a Central do Downtown ser&aacute; decorada de forma assustadora e festiva para criar a atmosfera perfeita de Halloween e Oktoberfest.</p>
+<p style="text-align: justify;"><strong>Fantasias:</strong> Vista sua melhor fantasia de Halloween e entre nessa festa com a gente durante todo o m&ecirc;s de outubro!</p>
+<p style="text-align: justify;"><strong>Servi&ccedil;o: </strong>O evento ser&aacute; realizado na Pra&ccedil;a Central do Downtown, localizado na Avenida das Am&eacute;ricas, 500 - Barra da Tijuca, com amplo estacionamento e f&aacute;cil acesso via &ocirc;nibus, BRT, metr&ocirc;, t&aacute;xi e aplicativos de transporte. Compartilhe com <a class="x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz  _aa9_ _a6hd" tabindex="0" role="link" href="https://www.instagram.com/explore/tags/oktoberfestdowntown/" target="_blank" rel="noopener">#OktoberfestDowntown</a> <a class="x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz  _aa9_ _a6hd" tabindex="0" role="link" href="https://www.instagram.com/explore/tags/halloweendowntown/" target="_blank" rel="noopener">#HalloweenDowntown</a>&nbsp;<a class="x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz  _aa9_ _a6hd" tabindex="0" role="link" href="https://www.instagram.com/explore/tags/diadascrian%C3%A7as/" target="_blank" rel="noopener">#DiadasCrian&ccedil;as</a> / Entrada franca / Pet friendly / Programa&ccedil;&atilde;o sujeita a altera&ccedil;&otilde;es.</p>
+
+</div>
+<div class="col-md-4">
+<div class="widget clearfix">
+<h3>Atrações</h3>
+<div id="post-list-footer">
+<div class="spost clearfix">
+<div class="entry-image">
+<i class="icon-calendar3 icon-2x text-muted"></i>
+</div>
+<div class="entry-c">
+<div class="entry-title">
+<h4><a href="#">12/10/2023</a></h4>
+<p class="mb-0">12h - Abertura<br/>
+14h - Violúdico (Cantação de Histórias)<br/>
+16h - Zambone Alves (Mágico)<br/>
+18h - Banda Ploc (Dia das Crianças)<br/>
+22h - Encerramento</p>
+</div>
+</div>
+</div>
+<div class="spost clearfix">
+<div class="entry-image">
+<i class="icon-calendar3 icon-2x text-muted"></i>
+</div>
+<div class="entry-c">
+<div class="entry-title">
+<h4><a href="#">13/10/2023</a></h4>
+<p class="mb-0">12h - Abertura<br/>
+17h - Elvis DJ<br/>
+18h - Ronald Sales (Rock Acústico)<br/>
+21h - V-Trix (Flashback)<br/>
+00h - Encerramento</p>
+</div>
+</div>
+</div>
+<div class="spost clearfix">
+<div class="entry-image">
+<i class="icon-calendar3 icon-2x text-muted"></i>
+</div>
+<div class="entry-c">
+<div class="entry-title">
+<h4><a href="#">15/10/2023</a></h4>
+<p class="mb-0">12h - Abertura<br/>
+13h - Elvis DJ<br/>
+16h - Spiel Und Charm (Música Tradicional Alemã)<br/>
+19h - Made in Rock (Chris Cornell + Pearl Jam)<br/>
+22h - Encerramento</p>
+</div>
+</div>
+</div>
+<div class="spost clearfix">
+<div class="entry-image">
+<i class="icon-calendar3 icon-2x text-muted"></i>
+</div>
+<div class="entry-c">
+<div class="entry-title">
+<h4><a href="#">19/10/2023</a></h4>
+<p class="mb-0">12h - Abertura<br/>
+17h - Elvis DJ<br/>
+19h - Funk-Se (Funk Rock e Groove) by The Jam Experience<br/>
+21h - Festa Hot 90 (O melhor dos anos 70 a 2000)<br/>
+00h - Encerramento</p>
+</div>
+</div>
+</div>
+<div class="spost clearfix">
+<div class="entry-image">
+<i class="icon-calendar3 icon-2x text-muted"></i>
+</div>
+<div class="entry-c">
+<div class="entry-title">
+<h4><a href="#">20/10/2023</a></h4>
+<p class="mb-0">12h - Abertura<br/>
+17h - Elvis DJ<br/>
+18h - PH Albuquerque (Rock Acústico)<br/>
+21h - Kruger (Linkin Park + System of a Down)<br/>
+00h - Encerramento</p>
+</div>
+</div>
+</div>
+<div class="spost clearfix">
+<div class="entry-image">
+<i class="icon-calendar3 icon-2x text-muted"></i>
+</div>
+<div class="entry-c">
+<div class="entry-title">
+<h4><a href="#">21/10/2023</a></h4>
+<p class="mb-0">12h - Abertura<br/>
+15h - Elvis DJ<br/>
+18h - Hipernova (Rock)<br/>
+21h - Coldplayers (Coldplay)<br/>
+00h - Encerramento</p>
+</div>
+</div>
+</div>
+<div class="spost clearfix">
+<div class="entry-image">
+<i class="icon-calendar3 icon-2x text-muted"></i>
+</div>
+<div class="entry-c">
+<div class="entry-title">
+<h4><a href="#">22/10/2023</a></h4>
+<p class="mb-0">12h - Abertura<br/>
+13h - Elvis DJ<br/>
+16h - Bauernband (Música Tradicional Alemã)<br/>
+19h - Anesthesia (Metallica)<br/>
+22h - Encerramento</p>
+</div>
+</div>
+</div>
+<div class="spost clearfix">
+<div class="entry-image">
+<i class="icon-calendar3 icon-2x text-muted"></i>
+</div>
+<div class="entry-c">
+<div class="entry-title">
+<h4><a href="#">26/10/2023</a></h4>
+<p class="mb-0">12h - Abertura<br/>
+17h - Elvis DJ<br/>
+19h - Emo Never Dies (Emo)<br/>
+21h - G4 (Green Day)<br/>
+00h - Encerramento</p>
+</div>
+</div>
+</div>
+<div class="spost clearfix">
+<div class="entry-image">
+<i class="icon-calendar3 icon-2x text-muted"></i>
+</div>
+<div class="entry-c">
+<div class="entry-title">
+<h4><a href="#">27/10/2023</a></h4>
+<p class="mb-0">12h - Abertura<br/>
+17h - Elvis DJ<br/>
+18h - Dani Dias (Rock Acústico)<br/>
+21h - Vooduo (Rock)<br/>
+00h - Encerramento</p>
+</div>
+</div>
+</div>
+<div class="spost clearfix">
+<div class="entry-image">
+<i class="icon-calendar3 icon-2x text-muted"></i>
+</div>
+<div class="entry-c">
+<div class="entry-title">
+<h4><a href="#">28/10/2023</a></h4>
+<p class="mb-0">12h - Abertura<br/>
+15h - Elvis DJ<br/>
+18h - Radial 80 (Rock Anos 80)<br/>
+21h - Black Bird Band (The Beatles)<br/>
+00h - Encerramento</p>
+</div>
+</div>
+</div>
+<div class="spost clearfix">
+<div class="entry-image">
+<i class="icon-calendar3 icon-2x text-muted"></i>
+</div>
+<div class="entry-c">
+<div class="entry-title">
+<h4><a href="#">29/10/2023</a></h4>
+<p class="mb-0">12h - Abertura<br/>
+13h - Elvis DJ<br/>
+16h - Bergstadt (Dança Tradicional Alemã)<br/>
+19h - Hent (Nirvana)<br/>
+22h - Encerramento</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="container mt-5 mb-5">
+<div class="fancy-title title-center title-border">
+<h3>Expositores</h3>
+</div>
+<div id="oc-images" class="owl-carousel image-carousel carousel-widget" data-items-xs="2" data-items-sm="3" data-items-lg="4" data-items-xl="5" data-autoplay="3000" data-loop="true" style="margin-bottom: 60px; " data-pagi="false">
+<div class="oc-item">
+<a href="https://instagram.com/021batidaspremium" target="_blank" data-toggle="tooltip" data-placement="top" data-original-title="021 Batidas Premium">
+<img src="https://downtown.com.br/images/expositores/021 site.jpg" alt="021 Batidas Premium" title="021 Batidas Premium">
+</a>
+</div>
+<div class="oc-item">
+<a href="https://instagram.com/adegadopimenta" target="_blank" data-toggle="tooltip" data-placement="top" data-original-title="Adega do Pimenta">
+<img src="https://downtown.com.br/images/expositores/adega-do-pimenta.jpg" alt="Adega do Pimenta" title="Adega do Pimenta">
+</a>
+</div>
+<div class="oc-item">
+<a href="https://instagram.com/cervejariaantuerpia/" target="_blank" data-toggle="tooltip" data-placement="top" data-original-title="Antuérpia">
+<img src="https://downtown.com.br/images/expositores/ANTU__RPIA.png" alt="Antuérpia" title="Antuérpia">
+</a>
+</div>
+<div class="oc-item">
+<a href="https://instagram.com/_belisque_" target="_blank" data-toggle="tooltip" data-placement="top" data-original-title="Belisque">
+<img src="https://downtown.com.br/images/expositores/belisque-3.jpg" alt="Belisque" title="Belisque">
+</a>
+</div>
+<div class="oc-item">
+<a href="https://instagram.com/tellura_arte" target="_blank" data-toggle="tooltip" data-placement="top" data-original-title="Cachaça Tellura">
+<img src="https://downtown.com.br/images/expositores/TELLURA.png" alt="Cachaça Tellura" title="Cachaça Tellura">
+</a>
+</div>
+<div class="oc-item">
+<a href="https://www.instagram.com/calidushotdogueria/" target="_blank" data-toggle="tooltip" data-placement="top" data-original-title="Cálidus">
+<img src="https://downtown.com.br/images/expositores/C__LIDUS.jpg" alt="Cálidus" title="Cálidus">
+</a>
+</div>
+<div class="oc-item">
+<a href="https://instagram.com/confrariapaulistaniaeventosrj/" target="_blank" data-toggle="tooltip" data-placement="top" data-original-title="Confraria Paulistânia">
+<img src="https://downtown.com.br/images/expositores/PAULIST__NIA.png" alt="Confraria Paulistânia" title="Confraria Paulistânia">
+</a>
+</div>
+<div class="oc-item">
+<a href="https://instagram.com/crepesbonprofit/" target="_blank" data-toggle="tooltip" data-placement="top" data-original-title="Crepes Bon Profit">
+<img src="https://downtown.com.br/images/expositores/CREPES BON PROFIT.png" alt="Crepes Bon Profit" title="Crepes Bon Profit">
+</a>
+</div>
+<div class="oc-item">
+<a href="https://instagram.com/cervejariacriatura" target="_blank" data-toggle="tooltip" data-placement="top" data-original-title="Criatura Craft Beer">
+<img src="https://downtown.com.br/images/expositores/criatura.png" alt="Criatura Craft Beer" title="Criatura Craft Beer">
+</a>
+</div>
+<div class="oc-item">
+<a href="https://instagram.com/hocuspocus" target="_blank" data-toggle="tooltip" data-placement="top" data-original-title="Hocus Pocus">
+<img src="https://downtown.com.br/images/expositores/hocus-pocus.jpg" alt="Hocus Pocus" title="Hocus Pocus">
+</a>
+</div>
+<div class="oc-item">
+<a href="https://instagram.com/cervejarialabirinto" target="_blank" data-toggle="tooltip" data-placement="top" data-original-title="Labirinto">
+<img src="https://downtown.com.br/images/expositores/labirinto.jpg" alt="Labirinto" title="Labirinto">
+</a>
+</div>
+<div class="oc-item">
+<a href="https://instagram.com/cervejariamafia" target="_blank" data-toggle="tooltip" data-placement="top" data-original-title="Mafia">
+<img src="https://downtown.com.br/images/expositores/MAFIA.jpg" alt="Mafia" title="Mafia">
+</a>
+</div>
+<div class="oc-item">
+<a href="https://instagram.com/choppnoi" target="_blank" data-toggle="tooltip" data-placement="top" data-original-title="Noi">
+<img src="https://downtown.com.br/images/expositores/NOI.jpg" alt="Noi" title="Noi">
+</a>
+</div>
+<div class="oc-item">
+<a href="https://instagram.com/oldschoolcervejaria" target="_blank" data-toggle="tooltip" data-placement="top" data-original-title="Old School">
+<img src="https://downtown.com.br/images/expositores/old.jpg" alt="Old School" title="Old School">
+</a>
+</div>
+<div class="oc-item">
+<a href="https://instagram.com/pasteldoanderson" target="_blank" data-toggle="tooltip" data-placement="top" data-original-title="Pastel do Anderson">
+<img src="https://downtown.com.br/images/expositores/PASTEL DO ANDERSON SITE.jpg" alt="Pastel do Anderson" title="Pastel do Anderson">
+</a>
+</div>
+<div class="oc-item">
+<a href="https://instagram.com/pedacinhodeportugall/" target="_blank" data-toggle="tooltip" data-placement="top" data-original-title="Pedacinho de Portugal">
+<img src="https://downtown.com.br/images/expositores/PEDACINHO DE PORTUGAL2.png" alt="Pedacinho de Portugal" title="Pedacinho de Portugal">
+</a>
+</div>
+<div class="oc-item">
+<a href="https://www.instagram.com/cervejaserracarioca/" target="_blank" data-toggle="tooltip" data-placement="top" data-original-title="Serra Carioca">
+<img src="https://downtown.com.br/images/expositores/SERRA CARIOCA.jpg" alt="Serra Carioca" title="Serra Carioca">
+</a>
+</div>
+<div class="oc-item">
+<a href="https://www.instagram.com/tropi_brassaria/" target="_blank" data-toggle="tooltip" data-placement="top" data-original-title="Tropí Brassaria">
+<img src="https://downtown.com.br/images/expositores/TROPI BRASSARIA.jpg" alt="Tropí Brassaria" title="Tropí Brassaria">
+</a>
+</div>
+<div class="oc-item">
+<a href="https://instagram.com/vulcanotruck" target="_blank" data-toggle="tooltip" data-placement="top" data-original-title="Vulcano">
+<img src="https://downtown.com.br/images/expositores/VULCANO.png" alt="Vulcano" title="Vulcano">
+</a>
+</div>
+<div class="oc-item">
+<a href="https://instagram.com/wehrsbier/" target="_blank" data-toggle="tooltip" data-placement="top" data-original-title="Wehrs Bier">
+<img src="https://downtown.com.br/images/expositores/WEHRS BIER3.png" alt="Wehrs Bier" title="Wehrs Bier">
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<footer id="footer" class="dark">
+<div class="container">
+
+<div class="footer-widgets-wrap clearfix">
+<div class="row clearfix">
+<div class="col-md-2 widget_links d-none d-md-block">
+<img src="https://downtown.com.br/images/varios/logo-branco.png" class="mb-3" alt="downtown" style=" display: block;"> <br>
+<br>
+</div>
+<div class="col-md-6 widget_links col-12 mb-3">
+<h4 class="uppercase">Links Rápidos</h4>
+<div class="tagcloud clearfix">
+<a href="https://downtown.com.br/cinema">Cinema</a>
+<a href="https://downtown.com.br/eventos">Eventos</a>
+<a href="https://downtown.com.br/alimentacao">Alimentação</a>
+<a href="https://downtown.com.br/estacionamento">Estacionamento</a>
+<a href="https://downtown.com.br/images/varios/mapa-2023.jpg" data-lightbox="image">Mapa de Localização</a>
+<a href="https://downtown.com.br/saude">Saúde</a>
+<a href="https://downtown.com.br/lazer">Lazer</a>
+<a href="https://downtown.com.br/compras">Compras</a>
+<a href="https://downtown.com.br/servicos">Serviços</a>
+<a href="https://downtown.com.br/oportunidades">Oportunidades</a>
+<a href="https://downtown.com.br/imoveis">Imóveis</a>
+</div>
+</div>
+<div class="col-md-4 col-12">
+<div class="row">
+<div class="col-md-6 col-6">
+<div id="TA_rated955" class="TA_rated">
+<ul id="oYthzTDe9nL" class="TA_links qqwXsEJeFml">
+<li id="WDGXWR" class="ueH7z02Pv"><a target="_blank" href="https://www.tripadvisor.com.br/"><img src="https://www.tripadvisor.com.br/img/cdsi/img2/badges/ollie-11424-2.gif" alt="TripAdvisor" /></a>
+</li>
+</ul>
+</div>
+<script async src="https://www.jscache.com/wejs?wtype=rated&amp;uniq=955&amp;locationId=4735882&amp;lang=pt&amp;display_version=2" data-loadtrk onload="this.loadtrk=true"></script>
+</div>
+<div class="col-md-6 col-6">
+<img src="https://downtown.com.br/images/varios/pet-friendly.png" width="100" alt="pet friendly">
+</div>
+</div>
+</div>
+</div>
+<div class="line"></div>
+<div class="row clearfix">
+<div class="col-lg-3">
+<div class="footer-big-contacts">
+<span>Ligue pra nós:</span> (21) 2494-7072 </div>
+<div class="d-block d-md-block d-lg-none bottommargin-sm"></div>
+</div>
+<div class="col-lg-3">
+<div class="footer-big-contacts">
+<span>Envie uma mensagem:</span> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4b382a280b2f243c253f243c2565282426652939">[email&#160;protected]</a>
+</div>
+<div class="d-block d-md-none bottommargin-sm"></div>
+</div>
+<div class="col-lg-3">
+<div class="footer-big-contacts">
+<a href="https://cgmalls.com.br/" target="_blank"><img src="https://downtown.com.br/images/varios/logo-cgmalls.png" alt="cg malls"></a>
+</div>
+<div class="d-block d-md-none bottommargin-sm"></div>
+</div>
+<div class="col-lg-3 col-md-12">
+<div class="clearfix" data-class-xl="fright" data-class-lg="fright" data-class-md="fright" data-class-sm data-class-xs>
+<a href="https://facebook.com/downtownrj/" class="social-icon si-rounded si-small si-colored si-facebook" target="_blank" title="facebook">
+<i class="icon-facebook"></i>
+<i class="icon-facebook"></i>
+</a>
+<a href="https://instagram.com/downtownrj/" class="social-icon si-rounded si-small si-colored si-pocket" target="_blank" title="instagram">
+<i class="icon-instagram"></i>
+<i class="icon-instagram"></i>
+</a>
+<a href="https://api.whatsapp.com/send?phone=552124947072" class="social-icon si-rounded si-small si-colored si-evernote" target="_blank" title="whatsapp">
+<i class="icon-whatsapp"></i>
+<i class="icon-whatsapp"></i>
+</a>
+<a href="https://tiktok.com/@downtownrj" class="social-icon si-rounded si-small si-colored si-dribbble" target="_blank" title="tiktok">
+<i class="icon-tiktok"></i>
+<i class="icon-tiktok"></i>
+</a>
+<a href="https://t.me/downtownrj" class="social-icon si-rounded si-small si-colored si-skype" target="_blank" title="telegram">
+<i class="icon-telegram-plane"></i>
+<i class="icon-telegram-plane"></i>
+</a>
+<a href="https://g.page/downtownrj?share" class="social-icon si-rounded si-small si-colored si-google" target="_blank" title="maps">
+<i class="icon-map-marker2"></i>
+<i class="icon-map-marker2"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div id="copyrights">
+<div class="container clearfix">
+<div class="row">
+<div class="col-md-8">
+Copyright © 2023 - Condomínio Downtown - 02.686.197/0001-90 | <a href="https://downtown.com.br/downloads/lgpd-downtown.pdf" target="_blank" class="text-white">Política de privacidade</a>
+</div>
+<div class="col-md-4 text-right">
+Desenvolvido por <a href="https://flashti.com.br" target="_blank" class="text-white">Flash TI</a>
+</div>
+</div>
+</div>
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script async src="https://www.googletagmanager.com/gtag/js?id=UA-91934122-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-91934122-1');
+</script>
+<script type="text/javascript">
+          (function(s, z, c, h, a, t) {
+            s.webchat = s.webchat || function() {
+              (s.webchat.q = s.webchat.q || []).push(arguments);
+            };
+            t = z.createElement(c),
+              a = z.getElementsByTagName(c)[0]; t.async = 1;
+            t.src = 'https://dt.atende.chat/webchat/v2/webchat.js'; 
+            a.parentNode.insertBefore(t, a);
+            s.webchat('cid', '5ed83d3dc3af9741cd62ca20');
+            s.webchat('host', h);
+          })(window, document, 'script', 'https://dt.atende.chat');
+
+          window.addEventListener("message", function(event) {
+            if(event.origin !== 'https://dt.atende.chat') return;
+          },false);
+        </script>
+</footer>
+</div>
+
+
+<div id="gotoTop" class="icon-angle-up"></div>
+
+<script src="https://downtown.com.br/js/jquery.js"></script>
+<script src="https://downtown.com.br/js/plugins.js"></script>
+<script src="https://downtown.com.br/js/functions.js"></script>
+</body>
+</html>
